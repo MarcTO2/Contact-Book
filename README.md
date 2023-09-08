@@ -1,14 +1,14 @@
 # Contact-Book
 
-# Welcome to the Python Contact Book project! This project is a simple command-line application that allows you to manage and organize your contacts. With this contact book, you can add, view, edit, and delete contacts, making it easy to keep track of important information about your friends, family, and colleagues.
+Welcome to my Python Contact Book project! This project is a simple command-line application that allows you to manage and organize your contacts. With this contact book, you can add, view, edit, and delete contacts, making it easy to keep track of important information about your friends, family, and colleagues.
 
-[Table of Contents]
-[Features]
-[Requirements]
-[Installation]
-[Usage]
-[Contributing]
-[License]
+# [Table of Contents]
+# [Features]
+# [Requirements]
+# [Installation]
+# [Usage]
+# [Contributing]
+# [License]
 
 # Features
 
