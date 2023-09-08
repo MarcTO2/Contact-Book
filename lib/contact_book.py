@@ -44,7 +44,7 @@ def list_contacts():
     if not contacts:
         print("No contacts found.")
     else:
-        print("List of Contacts:")
+        print("List Of Contacts:")
         for contact in contacts:
             print(f"ID: {contact.id}, Name: {contact.name}, Email: {contact.email}, Phone: {contact.phone}, Category: {contact.category.name}")
 
